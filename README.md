@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL here](https://your-solution-url.com)
-- [Live Site URL here](https://your-live-site-url.com)
+- [Solution URL here](https://www.frontendmentor.io/solutions/social-links-profile---vanilla-html-css-7k670NPEv0)
+- [Live Site URL here](https://jeremdevx.github.io/fm-challenge-socials-links-profile/)
 
 ## My process
 
